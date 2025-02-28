@@ -1,6 +1,8 @@
-# NewBrunswick_Airport_Analysis
+# New Brunswick Airport Analysis
+This project aims to identify an optimal location for an airport in New Brunswick, Canada, within the area between Fredericton, Moncton, and Saint John. 
+The analysis process carried out in Arc GIS Pro considered restricted zones and excluded existing airports and powerlines from the potential site.
 
-This project attempts to locate a suitable region for an airport in the province of New Brunswick, Canada.
+The findings and analysis were presented as part of the University of New Brunswick's GGE 3423 (Introduction to Geographic Information Systems) course held in Fall '23
+. The slides from the presentation are included in Airport_Analysis.pdf.
 
-The goal of the project was to find a region between the cities of Fredericton, Moncton, and Saint John. 
 
